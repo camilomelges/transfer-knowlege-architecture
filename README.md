@@ -16,7 +16,7 @@
 ### Download maven 3
 
 ```sudo apt install maven -y```
-- or Download [MavenMirrors](https://maven.apache.org/download.cgi)
+- or Download [Maven](https://maven.apache.org/download.cgi)
 
 ### Download yarn 
 
